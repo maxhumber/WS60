@@ -1,0 +1,34 @@
+from urllib.parse import quote, urlencode, urlsplit, urlunsplit
+from urllib.request import build_opener
+
+
+def get(url, params=None, headers=None):
+    """Return the contents from a URL
+
+    Params:
+
+    - url (str): Target website URL
+    - params (dict, optional): Param payload to add to the GET request
+    - headers (dict, optional): Headers to add to the GET request
+
+    Example:
+
+    ```
+    get('https://httpbin.org/anything', {'soup': 'gazpacho'})
+    ```
+    """
+    scheme, netloc, path, query, fragment = urlsplit(url)
+    path = quote(path)
+    url = urlunsplit((scheme, netloc, path, query, fragment))
+    opener = build_opener()
+    if params:
+        url += "?" + urlencode(params)
+    if headers:
+        for h in headers.items():
+            opener.addheaders = [h]
+    if (headers and not headers.get("User-Agent")) or not headers:
+        UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0"
+        opener.addheaders = [("User-Agent", UA)]
+    with opener.open(url) as f:
+        content = f.read().decode("utf-8")
+    return content

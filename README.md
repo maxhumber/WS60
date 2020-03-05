@@ -1,4 +1,4 @@
-# Web Scraping in 60 Minutes
+### Web Scraping in 60 Minutes
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 

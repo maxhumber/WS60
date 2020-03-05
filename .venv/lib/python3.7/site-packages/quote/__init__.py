@@ -1,0 +1,1 @@
+from .quote import quote
