@@ -1,0 +1,178 @@
+country,cases,health_expenditure
+China,80928.0,426.0
+Italy,35713.0,2700.0
+Iran,18407.0,
+Spain,17147.0,2354.0
+Germany,13632.0,4592.0
+USA,9486.0,
+France,9134.0,4026.0
+S. Korea,8565.0,
+Switzerland,3939.0,9818.0
+UK,2626.0,
+Netherlands,2460.0,4746.0
+Austria,1843.0,4536.0
+Belgium,1795.0,4228.0
+Norway,1706.0,7464.0
+Sweden,1423.0,5600.0
+Denmark,1132.0,5497.0
+Japan,923.0,3733.0
+Malaysia,900.0,386.0
+Portugal,785.0,1722.0
+Canada,727.0,4508.0
+Diamond Princess,712.0,
+Australia,709.0,4934.0
+Czechia,631.0,
+Brazil,532.0,780.0
+Israel,529.0,2756.0
+Qatar,452.0,2030.0
+Greece,418.0,1505.0
+Finland,400.0,4005.0
+Pakistan,380.0,38.0
+Ireland,366.0,4757.0
+Singapore,345.0,2280.0
+Chile,342.0,1102.0
+Luxembourg,335.0,6236.0
+Iceland,330.0,4375.0
+Poland,325.0,797.0
+Slovenia,319.0,1772.0
+Indonesia,309.0,112.0
+Romania,277.0,442.0
+Thailand,272.0,217.0
+Bahrain,268.0,1190.0
+Estonia,267.0,1112.0
+Saudi Arabia,238.0,1194.0
+Philippines,217.0,127.0
+Egypt,210.0,157.0
+Hong Kong,208.0,
+Russia,199.0,
+India,197.0,63.0
+Turkey,192.0,455.0
+Iraq,177.0,154.0
+Ecuador,168.0,530.0
+Peru,155.0,323.0
+South Africa,150.0,471.0
+Lebanon,149.0,645.0
+Kuwait,148.0,1169.0
+San Marino,140.0,3243.0
+UAE,140.0,
+Armenia,122.0,366.0
+Mexico,118.0,535.0
+Panama,109.0,921.0
+Taiwan,108.0,
+Slovakia,107.0,1108.0
+Croatia,102.0,852.0
+Colombia,102.0,374.0
+Argentina,97.0,998.0
+Serbia,97.0,491.0
+Bulgaria,94.0,572.0
+Latvia,86.0,784.0
+Algeria,82.0,292.0
+Uruguay,79.0,1281.0
+Vietnam,76.0,
+Hungary,73.0,894.0
+Brunei,73.0,
+Faeroe Islands,72.0,
+Costa Rica,69.0,929.0
+Albania,64.0,266.0
+Morocco,61.0,160.0
+Sri Lanka,60.0,118.0
+Cyprus,58.0,1563.0
+Jordan,56.0,257.0
+Andorra,53.0,4316.0
+Malta,53.0,2304.0
+Belarus,51.0,352.0
+Palestine,47.0,
+Bosnia and Herzegovina,45.0,431.0
+Azerbaijan,44.0,368.0
+Kazakhstan,44.0,379.0
+North Macedonia,43.0,295.0
+Georgia,40.0,281.0
+Oman,39.0,636.0
+Tunisia,39.0,258.0
+Cambodia,37.0,70.0
+Moldova,36.0,
+Lithuania,36.0,923.0
+Senegal,36.0,36.0
+Venezuela,36.0,
+Dominican Republic,34.0,397.0
+Burkina Faso,33.0,33.0
+Guadeloupe,33.0,
+New Zealand,28.0,3554.0
+Liechtenstein,28.0,
+Martinique,23.0,
+Uzbekistan,23.0,134.0
+Afghanistan,22.0,60.0
+Bangladesh,18.0,32.0
+Macao,17.0,
+Ukraine,16.0,125.0
+Jamaica,15.0,294.0
+Bolivia,15.0,197.0
+French Guiana,15.0,
+DRC,14.0,
+Réunion,14.0,
+Cameroon,13.0,64.0
+Maldives,13.0,944.0
+Nigeria,12.0,97.0
+Guam,12.0,
+Honduras,12.0,177.0
+Cuba,11.0,
+Paraguay,11.0,321.0
+Rwanda,11.0,57.0
+Monaco,9.0,3316.0
+Ivory Coast,9.0,
+Ghana,9.0,80.0
+Trinidad and Tobago,9.0,1146.0
+Guatemala,8.0,224.0
+Gibraltar,8.0,
+Montenegro,8.0,382.0
+Channel Islands,7.0,
+Kenya,7.0,70.0
+Ethiopia,6.0,24.0
+French Polynesia,6.0,
+Mongolia,6.0,152.0
+Puerto Rico,6.0,
+Seychelles,6.0,492.0
+Tanzania,6.0,
+Guyana,5.0,184.0
+Aruba,4.0,
+Equatorial Guinea,4.0,280.0
+Curaçao,3.0,
+Bahamas,3.0,1685.0
+Gabon,3.0,198.0
+Kyrgyzstan,3.0,92.0
+Mauritius,3.0,506.0
+Mayotte,3.0,
+St. Barth,3.0,
+Saint Martin,3.0,
+U.S. Virgin Islands,3.0,
+Sudan,2.0,152.0
+Barbados,2.0,1160.0
+Benin,2.0,31.0
+Bermuda,2.0,
+Greenland,2.0,
+Liberia,2.0,69.0
+Mauritania,2.0,54.0
+Namibia,2.0,423.0
+New Caledonia,2.0,
+Saint Lucia,2.0,482.0
+Zambia,2.0,69.0
+Cayman Islands,1.0,
+Nepal,1.0,44.0
+Antigua and Barbuda,1.0,657.0
+Bhutan,1.0,91.0
+CAR,1.0,
+Congo,1.0,59.0
+Djibouti,1.0,82.0
+El Salvador,1.0,283.0
+Fiji,1.0,175.0
+Gambia,1.0,32.0
+Guinea,1.0,25.0
+Vatican City,1.0,
+Montserrat,1.0,
+Nicaragua,1.0,163.0
+St. Vincent Grenadines,1.0,
+Sint Maarten,1.0,
+Somalia,1.0,
+Suriname,1.0,577.0
+Eswatini,1.0,
+Togo,1.0,37.0

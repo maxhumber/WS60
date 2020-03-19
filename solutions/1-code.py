@@ -8,7 +8,7 @@ def find_dob(candidate):
     dob = soup.find('span', {'class': 'bday'}, mode='first').text
     return dob
 
-for c in ['Andrew_Yang', 'Joe_Biden', 'Donald_Trump']:
+for c in ['Bernie_Sanders', 'Joe_Biden', 'Donald_Trump']:
     dob = find_dob(c)
     print(c, '->', dob)
     time.sleep(0.5)
