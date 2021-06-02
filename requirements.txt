@@ -23,7 +23,7 @@ soupsieve==2.0
 toolz==0.10.0
 tqdm==4.43.0
 urbandict==0.6.1
-urllib3==1.25.8
+urllib3==1.26.5
 webdriverdownloader==1.1.0.3
 Wikipedia-API==0.5.4
 zipp==3.1.0
